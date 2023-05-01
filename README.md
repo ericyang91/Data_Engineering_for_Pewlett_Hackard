@@ -1,5 +1,5 @@
 # Data Engineering for Pewlett Hackard
-</br>
+![main](https://www.mastrics.com/wp-content/uploads/2021/11/engineering.png)
 
 ## Purpose:
 
@@ -121,8 +121,8 @@ List of the frequency counts, in descending order, of all the employee last name
 </br>
 
 ## Languages and Libraries:
-</br>
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![pgAdmin](https://img.shields.io/badge/pgAdmin-336791?style=flat&logo=pgAdmin&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-`pgAdmin 4 v.6.15`
-`postgreSQL v.14.6`
-`Visual Studio 1.74.1`
